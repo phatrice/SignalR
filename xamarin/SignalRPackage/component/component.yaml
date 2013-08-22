@@ -17,5 +17,6 @@ screenshots:
 getting-started: GettingStarted.md
 version: 2.0.0
 samples: 
-  iOS Sample: ../samples/AwesomeSample/AwesomeSample.sln
+  iOS Sample: ../../../Microsoft.AspNet.SignalR.Client.iOS.Samples.sln
+  android sample: ../../../Microsoft.AspNet.SignalR.Client.Android.Samples.sln
 ...
